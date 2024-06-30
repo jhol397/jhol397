@@ -78,7 +78,7 @@
         </div>
     </div>
     <footer>
-        <p>&copy; 2024 FerraridaSorte. Todos os direitos reservados. | Contato: <a href="mailto:jhol1986@hotmail.com">jhol1986@hotmail.com</a></p>
+        <p>&copy; 2024 FerraridaSorte. Todos os direitos reservados.</p>
     </footer>
 
     <script>
@@ -103,4 +103,5 @@
     </script>
 </body>
 </html>
+
 
